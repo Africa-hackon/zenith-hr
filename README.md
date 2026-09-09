@@ -37,9 +37,8 @@ that only appear for admin roles):
 - **Docker** and the **Docker Compose** plugin installed. If you don't have these yet, install
   [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Windows/Mac) or Docker
   Engine (Linux), both include Compose.
-- That's it, no other tools, languages, or accounts are required.
 
-## Running this on any machine
+## Running this on your machine
 
 ```bash
 git clone <your-repo-url> zenith-hr   # or copy the folder over some other way
