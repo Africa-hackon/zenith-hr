@@ -17,8 +17,6 @@ full seeded dataset (~230 fake employee accounts, payroll history, leave request
 Nothing is shared with anyone else and nothing calls out to any external service, everything
 runs locally in Docker containers on your machine.
 
-## Screenshots
-
 Marketing landing page:
 
 ![Landing page](docs/screenshots/landing-page.png)
